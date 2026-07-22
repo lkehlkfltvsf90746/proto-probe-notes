@@ -1,4 +1,4 @@
-# LL-V · Protocol Parser Research Notes
+﻿# LL-V 路 Protocol Parser Research Notes
 
 This repository records protocol-parser research, including candidates that were
 invalidated during verification and **reproductions of public CVEs**.
@@ -11,7 +11,7 @@ independently supported. A CNA receipt is not validation.
 | Item | Status |
 |---|---|
 | Original confirmed vulnerabilities with CVE | **none yet** |
-| Original vendor reports (awaiting fix/CVE) | [libhv#851](https://github.com/ithewei/libhv/issues/851) DNS OOB |
+| Original vendor reports (awaiting fix/CVE) | [libhv#851](https://github.com/ithewei/libhv/issues/851) DNS OOB; [hiredis#1333](https://github.com/redis/hiredis/issues/1333) LLP64 bulk |
 | Related (cited upstream) reports | [libhv#852](https://github.com/ithewei/libhv/issues/852) WebSocket wrap |
 | Invalidated candidates | http-parser incomplete-chunk claim (2026-07-21) |
 | Known-CVE reproductions | CVE-2026-54387 Tinyproxy (tool validation only) |
@@ -42,7 +42,7 @@ A future **original** finding must include:
 
 ## Related
 
-- [http-framing-diff](https://github.com/LL-V/http-framing-diff) — framing_diff harness
+- [http-framing-diff](https://github.com/LL-V/http-framing-diff) 鈥?framing_diff harness
 - [http11-parser-corpus](https://github.com/LL-V/http11-parser-corpus)
 - [traffic-analyzer](https://github.com/LL-V/traffic-analyzer)
 
