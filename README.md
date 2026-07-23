@@ -11,10 +11,11 @@ independently supported. A CNA receipt is not validation.
 | Item | Status |
 |---|---|
 | Original confirmed vulnerabilities with CVE | **none yet** |
-| Original vendor reports (awaiting fix/CVE) | [libhv#851](https://github.com/ithewei/libhv/issues/851) DNS OOB; [hiredis#1333](https://github.com/redis/hiredis/issues/1333) LLP64 bulk; [smolrtsp#58](https://github.com/OpenIPC/smolrtsp/issues/58) alloca DoS |
-| Related (cited upstream) reports | [libhv#852](https://github.com/ithewei/libhv/issues/852) WebSocket wrap |
+| Original reports with vendor fix/ack | [smolrtsp#58](https://github.com/OpenIPC/smolrtsp/issues/58) **fixed** ([PR#59](https://github.com/OpenIPC/smolrtsp/pull/59)); [hiredis#1333](https://github.com/redis/hiredis/issues/1333) ack + [PR#1334](https://github.com/redis/hiredis/pull/1334); [libhv#851](https://github.com/ithewei/libhv/issues/851) + [PR#854](https://github.com/ithewei/libhv/pull/854) |
+| Related reports | [libhv#852](https://github.com/ithewei/libhv/issues/852) + [PR#853](https://github.com/ithewei/libhv/pull/853) |
 | Invalidated candidates | http-parser incomplete-chunk claim (2026-07-21) |
 | Known-CVE reproductions | CVE-2026-54387 Tinyproxy (tool validation only) |
+
 
 ## Layout
 
