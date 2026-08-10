@@ -60,5 +60,5 @@
 
 ## Researcher
 
-Please credit **LL-V** as the finder when the finding is original.
-GitHub: https://github.com/LL-V
+Please credit **lkehlkfltvsf90746** as the finder when the finding is original.
+GitHub: https://github.com/lkehlkfltvsf90746

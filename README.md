@@ -1,4 +1,4 @@
-﻿# LL-V 路 Protocol Parser Research Notes
+# lkehlkfltvsf90746 路 Protocol Parser Research Notes
 
 This repository records protocol-parser research, including candidates that were
 invalidated during verification and **reproductions of public CVEs**.
@@ -43,8 +43,8 @@ A future **original** finding must include:
 
 ## Related
 
-- [http-framing-diff](https://github.com/LL-V/http-framing-diff) 鈥?framing_diff harness
-- [http11-parser-corpus](https://github.com/LL-V/http11-parser-corpus)
-- [traffic-analyzer](https://github.com/LL-V/traffic-analyzer)
+- [wire-scan-notes](https://github.com/lkehlkfltvsf90746/wire-scan-notes) 鈥?framing_diff harness
+- [http11-view-corpus](https://github.com/lkehlkfltvsf90746/http11-view-corpus)
+- [edge-trace-core](https://github.com/lkehlkfltvsf90746/edge-trace-core)
 
 Only test systems you own or are explicitly authorized to assess.
