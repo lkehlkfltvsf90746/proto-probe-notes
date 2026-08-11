@@ -43,8 +43,8 @@ A future **original** finding must include:
 
 ## Related
 
-- [http-framing-diff](https://github.com/lkehlkfltvsf90746/http-framing-diff) --framing_diff harness
-- [http11-parser-corpus](https://github.com/lkehlkfltvsf90746/http11-parser-corpus)
-- [traffic-analyzer](https://github.com/lkehlkfltvsf90746/traffic-analyzer)
+- [wire-scan-notes](https://github.com/lkehlkfltvsf90746/wire-scan-notes) --framing_diff harness
+- [http11-view-corpus](https://github.com/lkehlkfltvsf90746/http11-view-corpus)
+- [edge-trace-core](https://github.com/lkehlkfltvsf90746/edge-trace-core)
 
 Only test systems you own or are explicitly authorized to assess.
